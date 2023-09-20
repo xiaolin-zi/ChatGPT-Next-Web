@@ -30,7 +30,6 @@ import {
 import { Link, useNavigate } from "react-router-dom";
 import { useMobileScreen } from "../utils";
 import dynamic from "next/dynamic";
-import { showToast } from "./ui-lib";
 import BotIcon from "@/app/icons/bot.png";
 import NextImage from "next/image";
 import { showConfirm, showToast } from "./ui-lib";
